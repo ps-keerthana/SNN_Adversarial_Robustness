@@ -8,7 +8,7 @@
 ## Research Poster
 
 <p align="center">
-  <img src="poster/snn_project_poster.pdf" alt="Research Poster — Impact of Adversarial Attacks on SNNs" width="92%">
+  <img src="poster/snn_project_poster.jpg" alt="Research Poster — Impact of Adversarial Attacks on SNNs" width="92%">
 </p>
 
 > Full PDF: [`poster/snn_project_poster.pdf`](poster/snn_project_poster.pdf)
@@ -314,7 +314,7 @@ make          # requires latexmk + pdflatex + beamerposter
 Or manually:
 
 ```bash
-pdflatex snn_poster.tex && pdflatex snn_poster.tex
+pdflatex poster.tex && pdflatex poster.tex
 ```
 
 All referenced figures are already in `latex_source/`.
