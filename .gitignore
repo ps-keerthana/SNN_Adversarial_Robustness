@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (too large for git — download from PyTorch/torchvision)
+data/
+*.tar.gz
+*-idx3-ubyte
+*-idx1-ubyte
+*-idx3-ubyte.gz
+*-idx1-ubyte.gz
+cifar-10-batches-py/
+
+# Model weights (large — use Git LFS or store externally)
+# Uncomment below to exclude .pt files if not using LFS
+# models/*.pt
+
+# LaTeX build artifacts
+poster/latex_source/*.aux
+poster/latex_source/*.log
+poster/latex_source/*.out
+poster/latex_source/*.synctex.gz
+poster/latex_source/_minted*/
+poster/latex_source/*.fdb_latexmk
+poster/latex_source/*.fls
+
+# OS
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Environments
+.venv/
+venv/
+env/
