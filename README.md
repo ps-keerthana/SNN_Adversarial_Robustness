@@ -8,7 +8,7 @@
 ## Research Poster
 
 <p align="center">
-  <img src="poster/snn_project_poster.jpg" alt="Research Poster — Impact of Adversarial Attacks on SNNs" width="92%">
+  <img src="poster/snn_project_poster.jpg" alt="Research Poster — Impact of Adversarial Attacks on SNNs" width="100%">
 </p>
 
 > Full PDF: [`poster/snn_project_poster.pdf`](poster/snn_project_poster.pdf)
